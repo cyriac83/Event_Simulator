@@ -3,8 +3,8 @@ An event simulator (in C) that implements Wieghted Fair Queueing (WFQ), Self Clo
 
 How to run :
 
-Extract the tar file named CS09S006_CS08M015_lab7.tar.gz
-Go to the concerned directory and type the following
+- Download the source
+- Go to the source directory and type the following
 
 # make clean
 # make all		
